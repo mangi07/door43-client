@@ -1,0 +1,4 @@
+.idea
+*.tgz
+out
+mocha_tests
